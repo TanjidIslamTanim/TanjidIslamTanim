@@ -87,7 +87,7 @@ I'm continuing to develop my skills through hands-on security labs, software pro
 
 - **GitHub:** [@TanjidIslamTanim](https://github.com/TanjidIslamTanim)
 - **Projects:** [Public repositories](https://github.com/TanjidIslamTanim?tab=repositories)
-- **LinkedIn:** Link to be added after confirmation
+- **LinkedIn:** [Tanjid Islam Tanim](https://www.linkedin.com/in/tanjid-tanim/)
 
 ---
 
