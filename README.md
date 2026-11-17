@@ -1,98 +1,117 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/183310405?v=4" alt="Tanjid Islam Tanim GitHub avatar" width="150" />
+![Tanjid Islam Tanim — Software Engineering and Cybersecurity](./assets/cyber-header.svg)
 
-# Tanjid Islam Tanim
+<img src="https://avatars.githubusercontent.com/u/183310405?v=4" alt="GitHub profile avatar" width="110" />
 
-### Software Engineering | Cybersecurity
+### Software Engineering Student · Computer Security Specialization
 
-**Bachelor of Software Engineering (Hons) · Computer Security Specialization**  
-University of Wollongong Malaysia
+**University of Wollongong Malaysia** · Expected graduation: **September 2027**
 
-Building practical software, exploring application security, and learning to design safer systems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanjidIslamTanim)
-[![Projects](https://img.shields.io/badge/Explore-Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanjidIslamTanim?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjid-tanim/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanjidIslamTanim)
+[![Projects](https://img.shields.io/badge/Explore-My_Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanjidIslamTanim?tab=repositories)
 
 </div>
+
+## 01 / About
+
+I'm a **Bachelor of Software Engineering (Hons)** student at **University of Wollongong Malaysia**, specializing in **Computer Security**. I enjoy exploring how applications work, where security weaknesses emerge, and how to design and test more reliable software.
+
+- **Current focus:** Application security, SQL injection testing, secure software development
+- **Hands-on experience:** Authentication, databases, backend integration, testing and debugging
+- **Career direction:** Cybersecurity / IT Security specialist
+
+## 02 / Tech Stack & Skills
+
+**Programming & databases**
+
+![PHP](https://img.shields.io/badge/PHP-151b17?style=for-the-badge&logo=php&logoColor=7ee787)
+![Java](https://img.shields.io/badge/Java-151b17?style=for-the-badge&logo=openjdk&logoColor=7ee787)
+![C++](https://img.shields.io/badge/C++-151b17?style=for-the-badge&logo=cplusplus&logoColor=7ee787)
+![SQL](https://img.shields.io/badge/SQL-151b17?style=for-the-badge&logo=mysql&logoColor=7ee787)
+![MySQL](https://img.shields.io/badge/MySQL-151b17?style=for-the-badge&logo=mysql&logoColor=7ee787)
+
+**Tools & practices**
+
+![Git](https://img.shields.io/badge/Git-151b17?style=for-the-badge&logo=git&logoColor=7ee787)
+![GitHub](https://img.shields.io/badge/GitHub-151b17?style=for-the-badge&logo=github&logoColor=7ee787)
+![Security](https://img.shields.io/badge/Application_Security-151b17?style=for-the-badge&logo=owasp&logoColor=7ee787)
+
+`SQL Injection Testing` · `Authentication` · `Input Validation` · `Database Design` · `Software Design Patterns` · `Testing & Debugging`
+
+## 03 / Featured Projects
+
+<table>
+<tr><td width="50%" valign="top">
+
+### 🛡️ [SQLShield](https://github.com/TanjidIslamTanim/sqlshield-sqli-lab)
+**SQL Injection Security Lab**
+
+Exploring SQL injection vulnerabilities, controlled testing, and defensive techniques.
+
+`Application Security` `SQL` `Testing`
+
+</td><td width="50%" valign="top">
+
+### 💻 [CollabSphere LMS](https://github.com/TanjidIslamTanim/CollabSphere-LMS)
+**Learning Management System**
+
+Worked on authentication, PHP backend, SQL database design, input validation, UI and debugging.
+
+`PHP` `SQL` `Authentication`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### 🏥 [Smart Healthcare](https://github.com/TanjidIslamTanim/Smart-Healthcare-Appointment-System)
+**Appointment Management System**
+
+Integrated and tested role-based workflows with Factory, Observer and Strategy patterns.
+
+`Software Design` `Testing`
+
+</td><td width="50%" valign="top">
+
+### 🔔 [Hotel Booking Notifications](https://github.com/TanjidIslamTanim/hotel-booking-notification-service)
+**Notification Service**
+
+A software project focused on hotel booking notifications.
+
+`Software Engineering`
+
+</td></tr>
+</table>
+
+**Also built:** [Bakery Management System](https://github.com/TanjidIslamTanim/Bakery-Management-System) · [Explore all repositories](https://github.com/TanjidIslamTanim?tab=repositories)
+
+## 04 / GitHub Activity
+
+<div align="center">
+
+![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=TanjidIslamTanim&bg_color=0d1117&color=c9d1d9&line=3fb950&point=7ee787&area=true&hide_border=true)
+
+</div>
+
+[**View live GitHub contributions →**](https://github.com/TanjidIslamTanim?tab=overview)
+
+> The graph is provided by a third-party service and may occasionally be unavailable. GitHub's own contribution calendar appears below the profile README.
+
+## 05 / Training & Career Goals
+
+**Deloitte Australia — Cyber Job Simulation (completed)**  
+Reviewed a security scenario, analyzed data, identified risks, and investigated an incident.
+
+I'm working toward a career in **Cybersecurity / IT Security**, developing practical skills through security labs and software engineering projects.
 
 ---
 
-## About Me
-
-I'm pursuing a **Bachelor of Software Engineering (Hons)** at **University of Wollongong Malaysia**, specializing in **Computer Security**. My interests include application security, vulnerability analysis, secure coding, and building reliable software.
-
-- **Focus:** Cybersecurity and secure software development
-- **Learning through:** Security labs, vulnerability testing, and software projects
-- **Expected graduation:** September 2027
-- **Career direction:** Cybersecurity / IT Security
-
-## Technical Skills & Tools
-
-**Programming & development**
-
-![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=7ee787)
-![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=7ee787)
-![C++](https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=7ee787)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=7ee787)
-
-**Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=7ee787)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=7ee787)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=7ee787)
-
-**Areas of practice:** `Application Security` · `SQL Injection Testing` · `Secure Coding` · `Database Design` · `Authentication` · `Software Design Patterns` · `Testing & Debugging`
-
-## Featured Projects
-
-| Project | Highlights |
-| :--- | :--- |
-| **[SQLShield — SQL Injection Security Lab](https://github.com/TanjidIslamTanim/sqlshield-sqli-lab)** | Hands-on SQL injection testing and defensive techniques in a controlled lab. |
-| **[CollabSphere LMS](https://github.com/TanjidIslamTanim/CollabSphere-LMS)** | Authentication, database schema, SQL queries, PHP backend, input validation, UI, and debugging. |
-| **[Smart Healthcare Appointment System](https://github.com/TanjidIslamTanim/Smart-Healthcare-Appointment-System)** | Role-based workflow integration and testing with Factory, Observer, and Strategy design patterns. |
-| **[Hotel Booking Notification Service](https://github.com/TanjidIslamTanim/hotel-booking-notification-service)** | Hotel-booking notification software project. |
-| **[Bakery Management System](https://github.com/TanjidIslamTanim/Bakery-Management-System)** | Management-system coursework project. |
-
-## GitHub Statistics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanjidIslamTanim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=3fb950&text_color=c9d1d9" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanjidIslamTanim&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9" alt="GitHub repository languages" height="165" />
+**Let's connect**
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/tanjid-tanim/) · [GitHub](https://github.com/TanjidIslamTanim) · [Repositories](https://github.com/TanjidIslamTanim?tab=repositories)
 
-> Statistics are generated by third-party services. Language percentages are repository measurements, not proficiency scores.
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanjidIslamTanim&bg_color=0d1117&color=c9d1d9&line=3fb950&point=7ee787&area=true&hide_border=true" alt="GitHub contribution activity" width="100%" />
-
-</div>
-
-## Certifications & Training
-
-- **Deloitte Australia — Cyber Job Simulation (completed):** Reviewed a security scenario, analyzed data, identified risks, and investigated an incident.
-
-## Career Goals
-
-I aim to grow into a **Cybersecurity / IT Security specialist**, with a focus on understanding vulnerabilities, securing applications, and applying software engineering principles to real-world security challenges.
-
-I'm continuing to develop my skills through hands-on security labs, software projects, and practical learning.
-
-## Connect
-
-- **GitHub:** [@TanjidIslamTanim](https://github.com/TanjidIslamTanim)
-- **Projects:** [Public repositories](https://github.com/TanjidIslamTanim?tab=repositories)
-- **LinkedIn:** [Tanjid Islam Tanim](https://www.linkedin.com/in/tanjid-tanim/)
-
----
-
-<div align="center">
-
-*Secure software starts with thoughtful engineering.*
+<sub>Secure software starts with thoughtful engineering.</sub>
 
 </div>
